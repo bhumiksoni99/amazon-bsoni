@@ -8,6 +8,8 @@ node_modules/
 dist/
 web-build/
 
+/apis/.env
+
 # Native
 *.orig.*
 *.jks
@@ -34,4 +36,3 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
-.env
